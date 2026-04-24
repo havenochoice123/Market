@@ -1,0 +1,10 @@
+#pragma once
+void adminLogin();
+void showAdmin_menu();
+void admin_menu();
+void admin_ViewProduct();
+void admin_ViewOrder();
+void admin_SearchProducts();
+void admin_ViewUser();
+void admin_DeleteUser();
+void admin_Soldout();
